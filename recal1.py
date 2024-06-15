@@ -1,30 +1,30 @@
 #recalling every thing that i've learnt!!
 
-#variable = a container for a value it behaves as the value that it contains
+variable = a container for a value it behaves as the value that it contains
 
 #DATA TYPES
 #STRINGS = a variable or  container for a series or collection of characters
-#name = "dude"
-#x = "1"  print(x),print("hello")
-#z = '3'
+name = "dude"
+x = "1"  print(x),print("hello")
+z = '3'
 #INEGERS = variable which contains numbers only
-#x = 1
-#z = 10
-#y = -2
+x = 1
+z = 10
+y = -2
 
 #FLOAT(float point numbers) = contains decimals or decimal numbers
-#z = 2.4
-#d = 33.00
+z = 2.4
+d = 33.00
 
 #BOOLEAN = tells only true or false
-#are you human? = True
-#are you girl? = False
+are you human? = True
+are you girl? = False
 
 #MULTIPLE ASSIGNMENT = reprensenting multiple variables in single line of code
 
-#name = "dude"
-#x = 2
-#f = 200.9
+name = "dude"
+x = 2
+f = 200.9
 
 #name,x,f = "dude",2,200.9
 
