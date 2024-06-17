@@ -121,23 +121,23 @@ print(funky_string3)
 #fun()
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-#rows = int(input("enter number of rows: "))
-#coloumns = int(input("enter number of coloumns: "))
-#symbol = input("enter the symbol: ")
+rows = int(input("enter number of rows: "))
+coloumns = int(input("enter number of coloumns: "))
+symbol = input("enter the symbol: ")
 
-#for x in range(rows):
-#    for z in range(coloumns):
-#        print(symbol,end="")
-#    print()
+for x in range(rows):
+    for z in range(coloumns):
+        print(symbol,end="")
+    print()
 
-#rows = 3
-#coloumns = 5
-#symbol = input("enter the symbol: ")
+rows = 3
+coloumns = 5
+symbol = input("enter the symbol: ")
 
-#for x in range(rows):
-#    for v in range(coloumns):
-#        print(symbol,end="")
-#    print()
+for x in range(rows):
+    for v in range(coloumns):
+        print(symbol,end="")
+    print()
 
 
 #BASIC QUIZ GAME IN PYTHON!!!
@@ -152,17 +152,17 @@ rows = 4
 coloumn = 4
 symbol = "$"
 special_character = "%"
-#for x in range(rows):
-#    print("_________________")
-#    print(symbol)
-#    for y in range(coloumn):
-#        print(special_character)
+for x in range(rows):
+    print("_________________")
+    print(symbol)
+    for y in range(coloumn):
+        print(special_character)
 
-#for i in range(rows):
-#    for j in range(coloumn):
-#        print(symbol)
-#    print(special_character)
- #   print("-----------------")
+for i in range(rows):
+    for j in range(coloumn):
+        print(symbol)
+    print(special_character)
+    print("-----------------")
 for i in range(rows):
     print(symbol)
     for j in range(coloumn):
