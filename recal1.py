@@ -28,10 +28,10 @@ f = 200.9
 
 #name,x,f = "dude",2,200.9
 
-#name = 1000
-#age = 1000
-#year = 1000
-#name, age , year = 1000
+name = 1000
+age = 1000
+year = 1000
+name, age , year = 1000
 
 #slicing python
 
@@ -39,19 +39,19 @@ f = 200.9
 #      slicing()
 #      [start:stop:step]
 #\\\indexing///
-#location = "karnataka hassan"
+string = "hello bro how are you?"
 
-#state = location[0:9]
-#state = location[:9]
-#print(state)
-#district = location[10:16]
-#district = location[10:]
-#print(district)
+string1 = string[0:9]
+string2 = string[:9]
+#print(string)
+string3 = string[10:16]
+string3 = string[10:]
+print(string3)
 
-#funky_state = location[:9:2]
-#print(funky_state)
-#funky_district = location[10::2]
-#print(funky_district)
+funcky_string = string[:9:2]
+print(funky_string)
+funky_string3 = string[10::2]
+print(funky_string3)
 
 #**** HOW TO REVERSE A STRING USING SLICING IN PYTHON ****
 
