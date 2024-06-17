@@ -55,41 +55,41 @@ print(funky_string3)
 
 #**** HOW TO REVERSE A STRING USING SLICING IN PYTHON ****
 
-#location = "bangalore"
-#reversed_location = location[::-1]
-#print(reversed_location)
+location = "bangalore"
+reversed_location = location[::-1]
+print(reversed_location)
 
 #slicing
 
-#movie = "new jailer (2023)"
-#slice = slice(4,-7)
+movie = "new jailer (2023)"
+slice = slice(4,-7)
 # **** here you need to change print statement in order obtain out put ***
-#print(movie[slice])
+print(movie[slice])
 
 #IF STATEMENTS (and,or,not)
-#q = int(input("what is your age?: "))
-#if q<=18:
-#    print(" you are in 2nd year pu!")
-#elif q <=0:
-#    print("you haven't been born yet! ")
-#elif q <= 13:
- #   print("you are in primary school!")
-#else:
-  #  print("you are too old to be in school lol")
+q = int(input("what is your age?: "))
+if q<=18:
+    print(" you are in 2nd year pu!")
+elif q <=0:
+    print("you haven't been born yet! ")
+elif q <= 13:
+    print("you are in primary school!")
+else:
+    print("you are too old to be in school lol")
 
 # while loop = a statement which executes it's block of code, as long as it's condition remains true!
 
-#while 1==1:
- #   print("goleram lol")
+while 1==1:
+    print("lol")
 
-#name = ""
-#while len(name) == 0:
-  #  name = input("enter your name: ")
-#print("hello "+name)
+name = ""
+while len(name) == 0:
+    name = input("enter your name: ")
+print("hello "+name)
 
 # slicing
 
-#name = "manjulakka"
+#name = "manjummel"
 #x = slice(0,7)
 #print(name[x])
 
