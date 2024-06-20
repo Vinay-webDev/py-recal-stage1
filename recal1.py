@@ -101,13 +101,13 @@ for seconds in range(10,0,-1):
     time.sleep(1)
 print("happy new year!")
 
-#food = ["idli","dose","poori","vade","pakoda"]
+food = ["idli","dose","poori","vade","pakoda"]
 
-#print(food)
+print(food)
 
-#for x in food:
-#   print(x,end=" ")
-#print(food[-2])
+for x in food:
+   print(x,end=" ")
+print(food[-2])
 
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 #quick problem on list!!!
