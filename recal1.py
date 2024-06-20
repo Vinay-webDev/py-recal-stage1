@@ -89,17 +89,17 @@ print("hello "+name)
 
 # slicing
 
-#name = "manjummel"
-#x = slice(0,7)
-#print(name[x])
+name = "manjummel"
+x = slice(0,7)
+print(name[x])
 
 
 
 #import time
-#for seconds in range(10,0,-1):
- #   print(seconds)
- #   time.sleep(1)
-#print("happy new year!")
+for seconds in range(10,0,-1):
+    print(seconds)
+    time.sleep(1)
+print("happy new year!")
 
 #food = ["idli","dose","poori","vade","pakoda"]
 
