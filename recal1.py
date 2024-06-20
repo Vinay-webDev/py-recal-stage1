@@ -110,15 +110,15 @@ for x in food:
 print(food[-2])
 
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-#quick problem on list!!!
-#c = [20,40,60,80]
-#c[1:4] = []
-#print(c)
+quick problem on list!!!
+c = [20,40,60,80]
+c[1:4] = []
+print(c)
 
-#def fun():
-#    for x in range(22, 23, 24):
-#        print(x)
-#fun()
+def fun():
+    for x in range(22, 23, 24):
+        print(x)
+fun()
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 rows = int(input("enter number of rows: "))
